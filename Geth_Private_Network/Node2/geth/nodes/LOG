@@ -1,0 +1,11 @@
+=============== Jul 12, 2023 (IST) ===============
+12:45:52.052909 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+12:45:52.133718 db@open opening
+12:45:52.141606 version@stat F·[] S·0B[] Sc·[]
+12:45:52.176072 db@janitor F·2 G·0
+12:45:52.176202 db@open done T·42.412652ms
+13:34:52.188128 memdb@flush N·35401 S·3MiB
+13:34:52.295797 memdb@flush created L0@3 N·35401 S·744KiB "loc..seq,v36":"version,v1"
+13:34:52.310198 version@stat F·[1] S·744KiB[744KiB] Sc·[0.25]
+13:34:52.354395 memdb@flush committed F·1 T·149.735374ms
+13:34:52.357511 journal@remove removed @1
